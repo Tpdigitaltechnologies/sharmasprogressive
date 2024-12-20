@@ -5012,8 +5012,8 @@ Testimonials One
 
 .testimonials-one__single h2 {
   color: #ffffff;
-  font-size: 38px;
-  line-height: 60px;
+  font-size: 20px;
+  line-height: 40px;
   font-weight: 500;
 }
 
@@ -5042,8 +5042,8 @@ Testimonials One
   left: 0;
   bottom: 0;
   right: 0;
-  border: 5px solid #ffffff;
-  border-top-left-radius: 30px;
+  border: 1px solid #ffffff;
+  border-radius: 50px;
   content: "";
 }
 
