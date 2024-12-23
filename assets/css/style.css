@@ -132,6 +132,13 @@ ul {
 }
 
 
+
+/*  */
+.logotext{
+  font-size: 13px;
+
+}
+/*  */
 /***
 =============================================
     Form Validation Styles
@@ -3486,7 +3493,11 @@ About One
 .about-one__img1 img {
   width: 100%;
 }
+.img-h{
+height: 100vh;
+object-fit: cover ;
 
+}
 .about-one__img2 {
   position: absolute;
   left: 0;
